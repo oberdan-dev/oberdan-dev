@@ -66,7 +66,7 @@
   🎓 Formado em <b>Engenharia de Computação</b> na <b>UFRGS</b> &nbsp;
 </p>
 <p align="center">
-💼 Desenvolvedor na Agidesk
+💼 Desenvolvedor na <b>Agidesk</b>
 </p>
 
 <!--

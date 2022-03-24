@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Node.js | ReactJS | React Native | Ruby On Rails | Flutter | Android (Java) | Git | MongoDB | PostgreSQL | MySQL
+ ReactJS | React Native 
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/-Facebook-3b67f6?style=flat&logo=Facebook&logoColor=white" />
   </a>
   <a
-    href="https://www.instagram.com/oberdancsantos" 
+    href="https://www.instagram.com/ocsantos_" 
     alt="Instagram"
     target="blank"
   >

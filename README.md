@@ -66,7 +66,7 @@
   🎓 Formado em <b>Engenharia de Computação</b> na <b>UFRGS</b> &nbsp;
 </p>
 <p align="center">
-💼 Desenvolvedor Mobile (e Full Stack)
+💼 Desenvolvedor na Agidesk
 </p>
 
 <!--

@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- ReactJS | React Native 
+React Native | React.JS
 </p>
 
 <p align="center">

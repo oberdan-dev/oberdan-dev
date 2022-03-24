@@ -52,9 +52,9 @@
   </a>
 </p>
 
-<h3 align="center">
+<!-- <h3 align="center">
   Oi, eu sou o <strike>Goku</strike> Oberdan!
-</h3>
+</h3> -->
 <h4 align="center">
   Seja Bem-vindo ao meu Git!
 </h4>
@@ -66,8 +66,10 @@
   🎓 Formado em <b>Engenharia de Computação</b> na <b>UFRGS</b> &nbsp;
 </p>
 <p align="center">
-💼 Desenvolvedor Mobile (e Full Stack) JR
+💼 Desenvolvedor Mobile (e Full Stack)
 </p>
+
+<!--
 <p align="center">
 🎯 Foco atual: <b>Flutter</b>
 </p>
@@ -84,7 +86,6 @@
 </p>
 
 
-<!--
 **oberdan-dev/oberdan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -66,7 +66,7 @@ React Native | React.JS
   🎓 Formado em <b>Engenharia de Computação</b> na <b>UFRGS</b> &nbsp;
 </p>
 <p align="center">
-💼 Desenvolvedor na <b>Agidesk</b>
+💼 Arquiteto de Software na <b>Agidesk</b>
 </p>
 
 <!--

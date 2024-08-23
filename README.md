@@ -60,31 +60,14 @@ React Native | React.JS
 </h4>
 
 <p align="center">
-  📌 Moro em <b>Cachoeirinha</b>, <b>Rio Grande do Sul</b>, <b>Brasil</b> &nbsp;
+  📌 Moro em <b>Porto Alegre</b>, <b>Rio Grande do Sul</b>, <b>Brasil</b> &nbsp;
 </p>
 <p align="center">
   🎓 Formado em <b>Engenharia de Computação</b> na <b>UFRGS</b> &nbsp;
 </p>
 <p align="center">
-💼 Arquiteto de Software na <b>Agidesk</b>
+💼 Desenvolvedor na <b>Agidesk</b>
 </p>
-
-<!--
-<p align="center">
-🎯 Foco atual: <b>Flutter</b>
-</p>
-<p align="center">
-📚 Autodidata e aluno de carteirinha da <b>
-<a
-    href="https://udemy.com.br" 
-    alt="Udemy"
-    target="blank"
-  >
-  <img src="https://img.shields.io/badge/-Udemy-3b67f6?style=flat&logo=Udemy&logoColor=white" />
-  </a>
-</b>
-</p>
-
 
 **oberdan-dev/oberdan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,7 +8,7 @@ React Native | React.JS
 </p>
 
 <p align="center">
-  <a
+<!--   <a
     href="https://web.whatsapp.com/send?phone=+5551998248155" 
     alt="WhatsApp"
     target="blank"
@@ -21,7 +21,7 @@ React Native | React.JS
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Outlook-3b67f6?style=flat&logo=microsoft-outlook&logoColor=white" />
-  </a>
+  </a> -->
   <a
     href="https://www.linkedin.com/in/oberdan-santos" 
     alt="LinkedIn"
@@ -29,7 +29,7 @@ React Native | React.JS
   >
     <img src="https://img.shields.io/badge/-LinkedIn-3b67f6?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a
+<!--   <a
     href="https://github.com/oberdan-dev"
     alt="GitHub"
     target="blank"
@@ -49,7 +49,7 @@ React Native | React.JS
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Instagram-3b67f6?style=flat&logo=Instagram&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <!-- <h3 align="center">
@@ -60,7 +60,8 @@ React Native | React.JS
 </h4>
 
 <p align="center">
-  📌 Moro em <b>Porto Alegre</b>, <b>Rio Grande do Sul</b>, <b>Brasil</b> &nbsp;
+<!--   📌 Moro em <b>Porto Alegre</b>, <b>Rio Grande do Sul</b>, <b>Brasil</b> &nbsp; -->
+  📌 Moro no <b>Rio Grande do Sul</b> (<b>Brasil</b>) &nbsp;
 </p>
 <p align="center">
   🎓 Formado em <b>Engenharia de Computação</b> na <b>UFRGS</b> &nbsp;
